@@ -1,0 +1,22 @@
+2025-01-14 11:19:43,607 - WARNING - Session file not found. Logging in anew.
+2025-01-14 11:19:43,608 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-01-14 11:19:44,133 - INFO - r_suuus [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-01-14 11:19:44,433 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-01-14 11:19:47,800 - INFO - r_suuus [200] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-01-14 11:19:48,801 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-01-14 11:19:49,904 - INFO - r_suuus [400] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-01-14 11:19:50,905 - INFO - https://i.instagram.com/api/v1/challenge/
+2025-01-14 11:19:51,302 - INFO - r_suuus [200] GET https://i.instagram.com/api/v1/challenge/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-01-14 11:19:59,890 - INFO - https://i.instagram.com/api/v1/bloks/apps/com.instagram.challenge.navigation.take_challenge/
+2025-01-14 11:20:03,831 - INFO - r_suuus [200] POST https://i.instagram.com/api/v1/bloks/apps/com.instagram.challenge.navigation.take_challenge/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-01-14 11:20:04,832 - INFO - https://i.instagram.com/api/v1/feed/reels_tray/
+2025-01-14 11:20:05,147 - INFO - r_suuus [403] POST https://i.instagram.com/api/v1/feed/reels_tray/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-01-14 11:20:05,148 - ERROR - Login failed: login_required
+2025-01-14 11:20:05,148 - ERROR - An error occurred: login_required
+2025-01-14 11:20:19,724 - WARNING - Session file not found. Logging in anew.
+2025-01-14 11:20:19,725 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-01-14 11:20:20,204 - INFO - r_suuus [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-01-14 11:20:20,474 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-01-14 11:20:21,984 - INFO - r_suuus [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-01-14 11:20:21,985 - ERROR - Login failed: You can log in with your linked Facebook account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
+2025-01-14 11:20:21,986 - ERROR - An error occurred: You can log in with your linked Facebook account. If you are sure that the password is correct, then change your IP address, because it is added to the blacklist of the Instagram Server
